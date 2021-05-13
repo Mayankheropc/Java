@@ -1,4 +1,4 @@
-class ComputeElectricityBill 
+public class ComputeElectricityBill 
 { 
         public static void main(String args[]) 
         {   
